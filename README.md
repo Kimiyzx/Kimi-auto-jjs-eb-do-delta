@@ -15,7 +15,7 @@ o JJs tem que ta ON no jogo, o script so responde os prompts. se tiver OFF ele f
 -------------------------------------------
 controles
 H - ligar/desligar (se esquecer disso o bagui nao faz nada e tu vai achar que nao funciona)
--------------------------------------------
+
 features
 responde Q/E sozinho
 delay humanizado i guess
