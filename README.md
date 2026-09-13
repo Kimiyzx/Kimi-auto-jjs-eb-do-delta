@@ -28,5 +28,6 @@ changelog
 -------------------------------------------
 v1.0 - 13/09/2026 - initial release, feito no tedio
 -------------------------------------------
-aviso:
+aviso/disclaimer:
 se tu tomar ban a culpa nao eh minha, ta avisado 
+If you're banned, it's not my fault. you've been warned
