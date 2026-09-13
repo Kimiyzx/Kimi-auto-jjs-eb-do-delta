@@ -4,6 +4,7 @@ tava vagabundeando sem fazer nada entao criei isso. ez delta kk
 auto pro QTE de polichinelo do EB do delta. ele le a letra do prompt (Q/E) e aperta sozinho, com delay de gente normal pra nao tomar bosta
 
 loadstring
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Kimiyzx/Kimi-auto-jjs-eb-do-delta/main/main.lua"))()
 
 como usa
