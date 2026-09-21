@@ -58,4 +58,4 @@ table.insert(getgenv().jj_conns, uis.InputBegan:Connect(function(inp, gpe)
 	end
 end))
 
-print("kimi auto jjs loaded, H liga/desliga")
+print("h liga/desliga✌👀")
