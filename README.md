@@ -1,9 +1,9 @@
-## kimi auto jjs eb do delta
-tava vagabundeando sem fazer nada entao criei isso. ez delta kk
+## auto jjs 
+tava vagabundeando sem fazer nada entao criei isso
 
-auto pro QTE de polichinelo do EB do delta. ele le a letra do prompt (Q/E) e aperta sozinho, com delay de gente normal pra nao tomar bosta
+auto pro QTE de polichinelo do EB do delta,  ele le a letra do prompt (Q/E) e aperta sozinho
 -------------------------------------------
-loadstring
+loader
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Kimiyzx/Kimi-auto-jjs-eb-do-delta/main/main.lua"))()
 -------------------------------------------
